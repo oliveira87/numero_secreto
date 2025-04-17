@@ -28,4 +28,5 @@ Sem imagem por enquanto.
 ---
 
 ## 👨‍💻 Autor  
-Maximiliano de Oliveira Queiroz
+[Maximiliano de Oliveira Queiroz](https://github.com/oliveira87)
+
