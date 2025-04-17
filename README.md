@@ -42,7 +42,7 @@ O código é de um jogo onde o usuário deve tentar acertar um número entre 0 e
       height="120"
       alt="Avatar de Maximiliano de Oliveira Queiroz"
       style="border-radius: 50%; border: 3px solid #0366d6;"
-    />
+    />q
   </a>
 </p>
 
