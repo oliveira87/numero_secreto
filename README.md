@@ -9,7 +9,10 @@ O código é de um jogo onde o usuário deve tentar acertar um número entre 0 e
 ![Versão](https://img.shields.io/badge/versão-1.1-blue.svg)
 
 ## 📷 Imagens  
-Sem imagem por enquanto.
+<div>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.bizu.com.br%2Fqual-o-numero-secreto%2F&psig=AOvVaw1aTI66jhufH8rkdVMTCHcg&ust=1744999758718000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDpiOnU34wDFQAAAAAdAAAAABAE">
+</div>
+
 
 ---
 
